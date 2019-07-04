@@ -30,7 +30,19 @@
     },
     "background": {
       "type": "string"
-    }
+    },
+    "inputPath": {
+      "type": "string"
+    },
+    "outputPath": {
+      "type": "string"
+    },
+    "publicPath": {
+      "type": "string"
+    },
+    "file": {
+      "type": "string"
+    },
   },
   "additionalProperties": true
 }
