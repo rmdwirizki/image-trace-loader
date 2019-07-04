@@ -42,7 +42,7 @@
     },
     "file": {
       "type": "string"
-    },
+    }
   },
   "additionalProperties": true
 }
